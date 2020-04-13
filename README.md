@@ -5,7 +5,9 @@ A tribute to John Conway who passed away on 2020-04-11 from COVID-19. He became 
 
 [![Automata video](Screenshots/AutomataRed1.png) Video](https://www.youtube.com/watch?v=O7mZFoLty7k)
 
-This project is heavilly based on this project: [Extruded Game Of Life](https://github.com/keenanwoodall/ExtrudedGameOfLife)
+This project is heavily based on this project: [Extruded Game Of Life](https://github.com/keenanwoodall/ExtrudedGameOfLife)
+
+Project is done i Unity. Press 'r' to reset animation and change color and press 'q' to quit. 
 
 /Peter Parnes
 peter@parnes.com
