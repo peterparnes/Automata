@@ -7,7 +7,7 @@ A tribute to John Conway who passed away on 2020-04-11 from COVID-19. He became 
 
 This project is heavily based on this project: [Extruded Game Of Life](https://github.com/keenanwoodall/ExtrudedGameOfLife)
 
-Project is done i Unity. Press 'r' to reset animation and change color and press 'q' to quit. 
+The project is done in Unity. Press 'r' to reset animation and change color and press 'q' to quit. 
 
 /Peter Parnes
 peter@parnes.com
