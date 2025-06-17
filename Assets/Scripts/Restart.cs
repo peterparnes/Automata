@@ -6,7 +6,7 @@ public class Restart : MonoBehaviour
 {
     public GameObject automata; 
 
-    // Update is called once per frame
+    // Listen for restart ('R') and quit ('Q') key presses each frame
     private void Update()
     {
         if (automata == null)
